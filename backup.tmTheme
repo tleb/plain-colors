@@ -14,17 +14,17 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#000000</string>
+				<string>#222222</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
-				<string>#FFFFFF</string>
+				<string>#F8F8F0</string>
 				<key>invisibles</key>
-				<string>#666666</string>
+				<string>#3B3A32</string>
 				<key>lineHighlight</key>
-				<string>#262626</string>
-				<key>selection</key>
 				<string>#333333</string>
+				<key>selection</key>
+				<string>#4A4A4A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -35,9 +35,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFFFB3</string>
+				<string>#545454</string>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string>  bold   </string>
 			</dict>
 		</dict>
 		<dict>
@@ -48,7 +48,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFFFB3</string>
+				<string>#5FD7A7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -59,7 +59,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFFFB3</string>
+				<string>#5FD7A7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -70,7 +70,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFFFB3</string>
+				<string>#5FD7A7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -81,7 +81,35 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFFFB3</string>
+				<string>#5FD7A7</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid</string>
+			<key>scope</key>
+			<string>invalid</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#F92672</string>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#F8F8F0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Invalid deprecated</string>
+			<key>scope</key>
+			<string>invalid.deprecated</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#AE81FF</string>
+				<key>foreground</key>
+				<string>#F8F8F0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -93,6 +121,8 @@
 			<dict>
 				<key>foreground</key>
 				<string>#FFFFFF</string>
+				<key>fontStyle</key>
+				<string> italic</string>
 			</dict>
 		</dict>
 	</array>
