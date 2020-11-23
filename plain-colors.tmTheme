@@ -16,15 +16,15 @@
 				<key>background</key>
 				<string>#000000</string>
 				<key>caret</key>
-				<string>#F8F8F0</string>
+				<string>#FFFFFF</string>
 				<key>foreground</key>
 				<string>#FFFFFF</string>
 				<key>invisibles</key>
-				<string>#666666</string>
+				<string>#9A9A9A</string>
 				<key>lineHighlight</key>
-				<string>#262626</string>
+				<string>#4C4C4C</string>
 				<key>selection</key>
-				<string>#333333</string>
+				<string>#4C4C4C</string>
 			</dict>
 		</dict>
 		<dict>
